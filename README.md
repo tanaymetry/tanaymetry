@@ -20,6 +20,6 @@ Developer building things around AI, systems and developer tools.
 
 [GitHub](https://github.com/tanaymetry)
 
-[Instagram](https://instagram.com/u/tanaymetry)
+[Instagram](https://www.instagram.com/tanaymetry)
 
-[Twitter (X)](https://x.com/term1nay)
+[Twitter](https://x.com/tanaymetry)
