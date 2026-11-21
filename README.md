@@ -23,3 +23,7 @@ Developer building things around AI, systems and developer tools.
 [Instagram](https://www.instagram.com/tanaymetry)
 
 [Twitter](https://x.com/tanaymetry)
+
+[Linkedin](https://linkedin.com/in/tanay-mishra-dev)
+
+[Reddit](https://www.reddit.com/user/Terminay)
