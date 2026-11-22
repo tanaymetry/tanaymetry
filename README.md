@@ -69,6 +69,8 @@ I build software around AI, systems and developer tools. My work sits between ma
 
 </div>
 
+> Im learning Rust too!
+
 ---
 
 ## GitHub
